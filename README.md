@@ -1,5 +1,5 @@
 # zenvia-java
-A simple implementation to send SMS messages through Zenvia Rest API.  
+A simple implementation to send SMS messages through Zenvia Rest API using Jersey client.
 
 # How to use:
 
